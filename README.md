@@ -1,6 +1,6 @@
 ## Hello! I'm Blake 👋
 
-<p>I'm a software engineer who is passionate about making contributions to open-source projects with a focus on sustainable technologies. Here are the technologies I use: </p>
+<p>I am a sofware engineer with a passion for building cutting-edge web and mobile applications. Here are the technologies I use: </p>
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,graphql,postgres,sqlite,swift,html,css,powershell&perline=5)](https://skillicons.dev)
